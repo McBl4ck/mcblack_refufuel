@@ -6,4 +6,4 @@ https://streamable.com/58byvw
 
 # Dependencies
 
-- LegacyFuel
+* [LegacyFuel](https://github.com/InZidiuZ/LegacyFuel)
